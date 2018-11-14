@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>sensor</name>
+  <Placemark>
+      <Point><coordinates>112.468563889,-7.66641388889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>112.478408333,-7.66467777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>112.480086111,-7.67328333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>112.480119444,-7.67317222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>112.479819444,-7.67234722222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>112.469155556,-7.662675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>112.473497222,-7.63833888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>112.472877778,-7.63838611111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>112.472597222,-7.638275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>112.474111111,-7.65525277778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>112.47383896926,-7.64013956207515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>112.472612167617,-7.64469872030467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>112.474319952507,-7.65601837481706</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
