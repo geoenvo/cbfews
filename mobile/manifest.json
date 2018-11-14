@@ -1,0 +1,11 @@
+{
+  "name": "Kalikatir Mobile Dashboard",
+  "short_name": "Kalikatir",
+  "icons": [{
+        "src": "bell.png",
+        "sizes": "256x256"
+      }],
+  "start_url": "https://monitoringku.com/kalikatir/mobile/index.php",
+  "display": "standalone",
+  "gcm_sender_id": "318550060838"
+}
